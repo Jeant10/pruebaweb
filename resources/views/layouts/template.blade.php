@@ -64,7 +64,7 @@
                 </div>
                 <!-- Portfolio Grid Items-->
                 <div class="row justify-content-center">
-                  @yield('contenido')
+                  @yield('content')
                   </div>
                     <!-- Portfolio Item 2-->
 
